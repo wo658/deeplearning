@@ -1,11 +1,4 @@
-<<<<<<< HEAD
-
-=======
 쿠폰브랜치aa
-
-
 bbbbbbbbbb
-
-
 ccccccccccc
 >>>>>>> coupon
